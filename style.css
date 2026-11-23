@@ -15,7 +15,7 @@ body {
     border-bottom: 2px solid #1f2937;
 }
 
-.navbar-inner {
+.navbar-menu {
     max-width: 960px;
     margin: 0 auto;
     padding: 12px 0;
@@ -141,7 +141,7 @@ body {
 
 /* Tampilan layar kecil */
 @media (max-width: 768px) {
-    .navbar-inner {
+    .navbar-menu {
         padding: 12px 20px;
         flex-wrap: wrap;
         gap: 12px;
